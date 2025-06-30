@@ -1,0 +1,2 @@
+D:\Unity VR\3D Projects\PiPG_proj\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Unity VR\3D Projects\PiPG_proj\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

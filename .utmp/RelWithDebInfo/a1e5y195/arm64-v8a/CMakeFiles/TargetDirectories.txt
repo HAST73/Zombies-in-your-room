@@ -1,0 +1,5 @@
+D:/Unity VR/3D Projects/PiPG_proj/.utmp/RelWithDebInfo/a1e5y195/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Unity VR/3D Projects/PiPG_proj/.utmp/RelWithDebInfo/a1e5y195/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Unity VR/3D Projects/PiPG_proj/.utmp/RelWithDebInfo/a1e5y195/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Unity VR/3D Projects/PiPG_proj/.utmp/RelWithDebInfo/a1e5y195/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Unity VR/3D Projects/PiPG_proj/.utmp/RelWithDebInfo/a1e5y195/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
